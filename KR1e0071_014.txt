@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋胡傳附錄纂疏
-#+DATE: 2015-09-23 09:40:07
-#+PROPERTY: JUAN 14
+#+DATE: 2015-08-24 22:15:30.349679
+#+PROPERTY: ID KR1e0071
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷十二
 <pb:KR1e0071_WYG_014-1a>¶
 欽定四庫全書¶
 　春秋胡傳附録纂疏卷十二¶
@@ -1136,4 +1138,3 @@
 　¶
 　¶
 　春秋胡傳附録纂疏卷十二¶
-

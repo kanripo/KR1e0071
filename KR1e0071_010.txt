@@ -1,7 +1,9 @@
-# -*- mode: mandoku-view -*-
+# -*- mode: mandoku-view; -*-
 #+TITLE: 春秋胡傳附錄纂疏
-#+DATE: 2015-09-23 09:40:07
-#+PROPERTY: JUAN 10
+#+DATE: 2015-08-24 22:15:30.240808
+#+PROPERTY: ID KR1e0071
+#+PROPERTY: BASEEDITION WYG    
+#+PROPERTY: JUAN 卷八
 <pb:KR1e0071_WYG_010-1a>¶
 欽定四庫全書¶
 　春秋胡傳附錄纂疏卷八¶
@@ -902,4 +904,3 @@
 　¶
 　¶
 　春秋胡傳附錄纂疏卷八¶
-
